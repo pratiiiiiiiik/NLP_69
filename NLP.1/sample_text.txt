@@ -1,0 +1,1 @@
+Natural language processing (NLP) is a field of artificial intelligence (AI) that gives the machines the ability to read, understand and derive meaning from human languages. It is a crucial part of modern technology.
